@@ -6,7 +6,7 @@
 ## 🛠 Technologies
 
 <p>
-    
+    <code><img width='10%' src='https://github.com/xerxes97/xerxes97/blob/main/images/html.png' alt='HTML5'/></code>
 </p>
 
 
