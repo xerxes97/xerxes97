@@ -7,14 +7,14 @@
 
 <p>
     <code><img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/html.png' alt='HTML5'/></code>
-    <code><img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/css.png' alt='HTML5'/></code>
-    <code><img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/git.png' alt='HTML5'/></code>
-    <code><img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/node.png' alt='HTML5'/></code>
-    <code><img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/node.png' alt='HTML5'/></code>
-    <code><img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/node.png' alt='HTML5'/></code>
-    <code><img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/node.png' alt='HTML5'/></code>
-    <code><img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/node.png' alt='HTML5'/></code>
-    <code><img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/node.png' alt='HTML5'/></code>
+    <code><img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/css.png' alt='CSS'/></code>
+    <code><img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/js.png' alt='JS'/></code>
+    <code><img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/git.png' alt='GITHUB'/></code>
+    <code><img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/express.png' alt='EXPRESS'/></code>
+    <code><img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/pixlr-bg-result.png' alt='SEQUELIZE'/></code>
+    <code><img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/postgrest.png' alt='POSTGREST'/></code>
+    <code><img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/react.png' alt='REACT'/></code>
+    <code><img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/redux.png' alt='REDUX'/></code>
 </p>
 
 
