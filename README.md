@@ -3,10 +3,10 @@
 ### FULL STACK WEB DEVELOPER
 
 
-### Technologies
+## 🛠 Technologies
 
 <p>
-
+    
 </p>
 
 
