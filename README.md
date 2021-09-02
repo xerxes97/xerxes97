@@ -10,6 +10,11 @@
     <code><img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/css.png' alt='HTML5'/></code>
     <code><img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/git.png' alt='HTML5'/></code>
     <code><img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/node.png' alt='HTML5'/></code>
+    <code><img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/node.png' alt='HTML5'/></code>
+    <code><img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/node.png' alt='HTML5'/></code>
+    <code><img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/node.png' alt='HTML5'/></code>
+    <code><img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/node.png' alt='HTML5'/></code>
+    <code><img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/node.png' alt='HTML5'/></code>
 </p>
 
 
