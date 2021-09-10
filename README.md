@@ -33,22 +33,22 @@
 ### Games Tour
 
 <p>
-<img width='450px' src='https://github.com/xerxes97/xerxes97/blob/main/images/gamesTourNav.png' alt='LOGO'/>
-<img width='450px' src='https://github.com/xerxes97/xerxes97/blob/main/images/filter.png' alt='FILTER'/>
-<img width='450px' src='https://github.com/xerxes97/xerxes97/blob/main/images/home.png' alt='HOME'/>
-<img width='450px' src='https://github.com/xerxes97/xerxes97/blob/main/images/search.png' alt='SEARCH'/>
-<img width='450px' src='https://github.com/xerxes97/xerxes97/blob/main/images/form.png' alt='FORM'/>
-<img width='450px' src='https://github.com/xerxes97/xerxes97/blob/main/images/details.png' alt='DETAILS'/>
+<img width='350px' src='https://github.com/xerxes97/xerxes97/blob/main/images/gamesTourNav.png' alt='LOGO'/>
+<img width='350px' src='https://github.com/xerxes97/xerxes97/blob/main/images/filter.png' alt='FILTER'/>
+<img width='350px' src='https://github.com/xerxes97/xerxes97/blob/main/images/home.png' alt='HOME'/>
+<img width='350px' src='https://github.com/xerxes97/xerxes97/blob/main/images/search.png' alt='SEARCH'/>
+<img width='350px' src='https://github.com/xerxes97/xerxes97/blob/main/images/form.png' alt='FORM'/>
+<img width='350px' src='https://github.com/xerxes97/xerxes97/blob/main/images/details.png' alt='DETAILS'/>
 </p>
 
 
 ### Weather View
 
 <p>
-<img width='450px' src='https://github.com/xerxes97/xerxes97/blob/main/images/sun.png' alt='LOGO'/>
-<img width='450px' src='https://github.com/xerxes97/xerxes97/blob/main/images/WVHome.png' alt='HOME'/>
-<img width='450px' src='https://github.com/xerxes97/xerxes97/blob/main/images/WVSearch.png' alt='SEARCH'/>
-<img width='450px' src='https://github.com/xerxes97/xerxes97/blob/main/images/WVDetails.png' alt='DETAILS'/>
+<img width='350px' src='https://github.com/xerxes97/xerxes97/blob/main/images/sun.png' alt='LOGO'/>
+<img width='350px' src='https://github.com/xerxes97/xerxes97/blob/main/images/WVHome.png' alt='HOME'/>
+<img width='350px' src='https://github.com/xerxes97/xerxes97/blob/main/images/WVSearch.png' alt='SEARCH'/>
+<img width='350px' src='https://github.com/xerxes97/xerxes97/blob/main/images/WVDetails.png' alt='DETAILS'/>
 </p>
 
 ### Contac me
