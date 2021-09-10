@@ -17,12 +17,28 @@
     <code><img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/redux.png' alt='REDUX'/></code>
 </p>
 
+<ul>
+    <li>HTML & CSS</li>
+    <li>Javascript</li>
+    <li>Git</li>
+    <li>Express</li>
+    <li>Sequalize</li>
+    <li>SQL</li>
+    <li>React</li>
+    <li>Redux</li>
+</ul>
+
 ## ✨ My Projects
 
 ### Games Tour
 
 <p>
-<img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/redux.png' alt='REDUX'/>
+<img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/gamesTourNav.png' alt='LOGO'/>
+<img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/filter.png' alt='FILTER'/>
+<img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/home.png' alt='HOME'/>
+<img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/search.png' alt='SEARCH'/>
+<img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/form.png' alt='FORM'/>
+<img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/details.png' alt='DETAILS'/>
 </p>
 
 [button url="http://www.google.com"]
