@@ -17,7 +17,15 @@
     <code><img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/redux.png' alt='REDUX'/></code>
 </p>
 
+## ✨ My Projects
 
+### Games Tour
+
+<p>
+<img width='100px' src='https://github.com/xerxes97/xerxes97/blob/main/images/redux.png' alt='REDUX'/>
+</p>
+
+[button url="http://www.google.com"]
 <!---
 xerxes97/xerxes97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
