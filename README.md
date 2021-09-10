@@ -51,7 +51,7 @@
 <img width='350px' src='https://github.com/xerxes97/xerxes97/blob/main/images/WVDetails.png' alt='DETAILS'/>
 </p>
 
-### Contac me
+### Contact me
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 <p><code>cquevedo68@gmail.com</code></p>
